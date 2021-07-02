@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({
 // 导入请求库
 const request = require('request')
 // 服务端口
-const port = 2020
+const port = 80
 
 // 设置允许跨域访问该服务
 app.all('*', function (req, res, next) {
