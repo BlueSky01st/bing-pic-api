@@ -3,18 +3,10 @@
 
 > Bing API 接口文档
 
-## 使用方法
-
-安装node.js
-
-```bash
-npm install #安装依赖项
-
-npm start #运行
-```
-
+[测试接口](http://127.0.0.1:2020/bing?idx=0&n=1)    [今日图片](http://127.0.0.1:2020/showtoday)
 
 ## 特性
+<hr />
 
 - Bing原生返回值
 - 支持json格式
@@ -24,6 +16,7 @@ npm start #运行
 
 
 ## 接口
+<hr />
 
 
 #### 原生Bing返回接口
